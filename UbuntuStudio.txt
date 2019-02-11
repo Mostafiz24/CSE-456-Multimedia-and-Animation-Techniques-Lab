@@ -1,0 +1,7 @@
+Ubuntu Studio:
+i.  It is Linux-based OS design
+ii. It is Free and Open source s/w
+iii.It is used for creative people for art
+iv. It is supported by canonical ltd.
+v.  It releases every six month
+vi. It's contents are Audio, Video, Graphics, Photography, Publishing.
