@@ -1,0 +1,9 @@
+lab-02 Summary
+Ubuntu Studio
+
+kid3
+Kid3 is used to edit ID3v1 and ID3v2 tags in MP3 file
+Ardour
+It is a digital workstation. It is used to record, edit and mix multi-track audio.
+Audacity
+It records audio.
